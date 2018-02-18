@@ -1,0 +1,19 @@
+.na-header{
+    margin-top: 55px;
+}
+
+.na-header-big{
+    margin-top: 110px;
+}
+
+.config-header{
+    text-align: center;
+}
+
+.search-bar{
+    width: 100%;
+}
+
+.search-bar .search-input{
+    width: 80%;
+}
